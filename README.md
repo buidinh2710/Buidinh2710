@@ -58,7 +58,7 @@
   </a> &nbsp;
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/THAY_THE_BANG_USERNAME_IG_CUA_BAN" target="_blank">
+  <a href="https://www.instagram.com/bwy.dynh_2710/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
