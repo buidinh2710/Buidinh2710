@@ -23,31 +23,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buidinh2710&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buidinh2710&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=buidinh2710&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buidinh2710&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buidinh2710&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
